@@ -1,0 +1,2 @@
+la base de datos para este proyecto se llama gestion_empleados 
+link: https://www.youtube.com/watch?v=J2LW5__bDkI&t=4877s
